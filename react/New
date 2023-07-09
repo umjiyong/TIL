@@ -1,1 +1,5 @@
-new
+npm npx
+
+useState, useEffect
+
+npx create-react-app test
