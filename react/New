@@ -3,3 +3,5 @@ npm npx
 useState, useEffect
 
 npx create-react-app test
+
+CRUD 중 update 시 인자로 props를 받을 경우 props는 외부 인자이기 때문에 값의 수정이 불가능하므로 state를 새로 선언하여 바꿔줄 필요가 있다고 한다.
