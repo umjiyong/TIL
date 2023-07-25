@@ -6,3 +6,4 @@ npx create-react-app test
 
 const는 기본적의 재할당이 불가능하나 const가 객체일 경우 객체의 propert의 부분 재할당은 가능하다.
 CRUD 중 update 시 인자로 props를 받을 경우 props는 외부 인자이기 때문에 값의 수정이 불가능하므로 state를 새로 선언하여 바꿔줄 필요가 있다고 한다.
+react에서 변수를 다룰 때 복수의 태그를 사용 불가하다. 그러므로 전체 내용을 빈 태그로 패키징한다.
